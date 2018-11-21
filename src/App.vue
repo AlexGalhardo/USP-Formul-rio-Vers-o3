@@ -17,7 +17,7 @@
       Version 3.0
       <br>
       <br>
-      <a href="https://github.com/AlexGalhardo/galhardoo.com/tree/master/app">Site made with VueJS 3.0 & Single File Components & Web Components</a>
+      <a href="https://github.com/AlexGalhardo/forms.galhardoo.com-version3">Site made with VueJS 3.0 & Single File Components & Web Components</a>
     </h4>
 
   </div>
